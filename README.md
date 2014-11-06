@@ -1,5 +1,5 @@
 
-This is a basic web server that responds to post request at /chat with a JSON message.
+This is a basic web server that responds to post request at /chat with a JSON message.  Please don't publicly post your solution.
 
 Put any static content in the public folder.
 
